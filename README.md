@@ -11,10 +11,10 @@
 ## 可以写 MarkDown 的工具
 
 - 实现 MarkDown 实时效果的软件：Typora、马克飞象、Simplenote 等。
-  <img src="https://tc-1253742987.cos.ap-shenzhen-fsi.myqcloud.com/20200203154423.png" width="60%">
+  ![](https://tc-1253742987.cos.ap-shenzhen-fsi.myqcloud.com/20200203154423.png)
 
 
 
 ## MarkDown 语法示例
 
-<img src="https://tc-1253742987.cos.ap-shenzhen-fsi.myqcloud.com/20200203160438.png" width="100%">
+![](https://tc-1253742987.cos.ap-shenzhen-fsi.myqcloud.com/20200203160438.png)
